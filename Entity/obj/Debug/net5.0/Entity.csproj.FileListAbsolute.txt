@@ -1,0 +1,12 @@
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\T007388\Desktop\FileOperationApp\FileOperationApp\Entity\obj\Debug\net5.0\Entity.pdb
